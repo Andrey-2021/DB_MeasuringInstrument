@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEnoHzbzqG7pCwCq82Ut/W7N93WjKpBt2XxixB0j8Mx22clcv+z54uDwmw1veA0pUNwzzdft185ZdektEK1zOA==",
+  "success": true,
+  "projectFilePath": "E:\\1\\2022-02-06 ! - Диплом -! gena2142 - БД\\WinFormsAppDevicesAccounting\\WindowsFormsLibrary\\WindowsFormsLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

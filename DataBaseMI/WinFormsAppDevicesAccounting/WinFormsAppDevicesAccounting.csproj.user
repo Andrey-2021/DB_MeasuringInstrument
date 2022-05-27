@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Common\BaseViewForDbFormAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Common\BaseViewForDbForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDocuments\BaseFormFindMI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDocuments\FormReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDocuments\FormSummaries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDocuments\FormСertificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDocuments\FormMovement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDocuments\FormPasports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDocuments\FormUnsuitability.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiOperations\FormMIMoving.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiOperations\FormMovingAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuSettings\FormPasswordChang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiOperations\FormRepair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiOperations\FormRepairAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuSettings\FormServerSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiOperations\FormUnsuitabilityWork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiOperations\FormUnsuitabilityWorkAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Common\FormWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiOperations\FormСertificateWork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiOperations\FormСertificateWorkAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiOperations\FormCalibration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormCalibrationPeriod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormCalibrationPeriodAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormDeparment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormDepartmentAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormDeviceState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormDeviceStateAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormDeviceType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormDeviceTypeAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiOperations\FormCalibrationAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormCalibrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormCalibratorAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuHelp\FormHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuManual\FormManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormManufacturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormManufacturerAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormMeasurementUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormMeasurementUnitAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormMeasuringInstrument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDb\FormMeasuringInstrumentAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuUsers\FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuUsers\FormUserAddOrEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Common\BaseViewShowErrorAndWarning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

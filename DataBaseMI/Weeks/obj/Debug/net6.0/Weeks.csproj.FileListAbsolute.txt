@@ -1,0 +1,12 @@
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\bin\Debug\net6.0\Weeks.deps.json
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\bin\Debug\net6.0\Weeks.dll
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\bin\Debug\net6.0\Weeks.pdb
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\obj\Debug\net6.0\Weeks.csproj.AssemblyReference.cache
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\obj\Debug\net6.0\Weeks.GeneratedMSBuildEditorConfig.editorconfig
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\obj\Debug\net6.0\Weeks.AssemblyInfoInputs.cache
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\obj\Debug\net6.0\Weeks.AssemblyInfo.cs
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\obj\Debug\net6.0\Weeks.csproj.CoreCompileInputs.cache
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\obj\Debug\net6.0\Weeks.dll
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\obj\Debug\net6.0\refint\Weeks.dll
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\obj\Debug\net6.0\Weeks.pdb
+E:\1\2022-02-06 ! - Диплом -! gena2142 - БД\Востановленный\WinFormsAppDevicesAccounting\Weeks\obj\Debug\net6.0\ref\Weeks.dll

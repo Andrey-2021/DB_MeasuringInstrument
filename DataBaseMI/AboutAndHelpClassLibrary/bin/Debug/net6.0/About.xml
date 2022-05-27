@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<paragraphs>
+	<paragraph name="Задание">
+Разработать ПО для учёта измерительных приборов.
+ОС: Windows
+Язык: C#
+	</paragraph>
+	<paragraph name="Выполнил">
+Выполнил:
+Группа ________ 
+_______________
+
+Проверил:
+________________
+	</paragraph>
+	<paragraph name="О программе">
+ПО "Учёт СИ". 
+v.1.0
+2022г.
+	</paragraph>
+</paragraphs>

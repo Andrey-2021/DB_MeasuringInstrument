@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9M+fM4e5hBfTNQ+FomY2bYYMbH3sf6jh3+phBISNENm4wESY3N2xA4rIApM/O+x7tPoXsdv/UO1k/yr5mlzNA==",
+  "success": true,
+  "projectFilePath": "E:\\1\\2022-02-06 ! - Диплом -! gena2142 - БД\\WinFormsAppDevicesAccounting\\WordDocumentsClassLibrary\\WordDocumentsClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

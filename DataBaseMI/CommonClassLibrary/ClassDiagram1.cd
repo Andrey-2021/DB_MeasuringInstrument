@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CommonClassLibrary.CalibrationPeriod" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAgAAAAAAAAAAIAAAAAAAAAAABI=</HashCode>
+      <FileName>CalibrationPeriod.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.Manufacturer" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAIgAgAAAQAACIEAIACAAAAAAAAABA=</HashCode>
+      <FileName>Manufacturer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.DeviceType" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEgAgAAAAAAAAAAJAAAAAAAAAAABA=</HashCode>
+      <FileName>DeviceType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.MeasurementUnit" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAgAAAAAAAAAAIAAAAAgAAAAABA=</HashCode>
+      <FileName>MeasurementUnit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.Department" Collapsed="true">
+    <Position X="6.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEgAiAAAQAAAAAAIAAAAAAAAAAABA=</HashCode>
+      <FileName>Department.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.Calibration">
+    <Position X="7" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAASAAEAAAAAAAgAgAQAQAQAAAAAAIABAAAAIAAAABA=</HashCode>
+      <FileName>CalibrationClasses\Calibration.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MeasuringInstrument" />
+      <Property Name="Calibrator" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.Calibrator" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Users\Calibrator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.DeviceState" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEgAgAAAAAAAAAAIAAAAAABAAAABA=</HashCode>
+      <FileName>DeviceState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.Moving">
+    <Position X="5.75" Y="9.5" Width="2.75" />
+    <AssociationLine Name="MeasuringInstrument" Type="CommonClassLibrary.MeasuringInstrument" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.219" Y="9.5" />
+        <Point X="6.219" Y="8.375" />
+        <Point X="5.25" Y="8.375" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="GiveDepartment" Type="CommonClassLibrary.Department">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.494" Y="0.477" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="TakeDepartment" Type="CommonClassLibrary.Department">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.201" Y="0.934" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACYBEABAAAAAgAgAQAAAAAAACAIIABAAAAAAAgABA=</HashCode>
+      <FileName>Documents\Moving.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MeasuringInstrument" />
+      <Property Name="GiveDepartment" />
+      <Property Name="TakeDepartment" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.Photo">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAABAAAAgAgAAAAAQAAAAAAJAQAAAAAAAAABA=</HashCode>
+      <FileName>Photo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MeasuringInstrument" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.137" />
+  </Class>
+  <Class Name="CommonClassLibrary.Repair">
+    <Position X="8.75" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAAAgAAgAgAAAAAAAAAAAAIABAAAAAAAAABA=</HashCode>
+      <FileName>CalibrationClasses\Repair.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MeasuringInstrument" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.Сertificate">
+    <Position X="10.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAIgAAAAAAAAIACAIAAAACgAAAAABA=</HashCode>
+      <FileName>Documents\Сertificate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.User" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAgAAAAAAAAAAAAIACAAAQAAAAABA=</HashCode>
+      <FileName>Users\User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.Unsuitability">
+    <Position X="12.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAACAAABA=</HashCode>
+      <FileName>Documents\Unsuitability.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.BaseForCertificate">
+    <Position X="11.25" Y="4.5" Width="2.25" />
+    <AssociationLine Name="MeasuringInstrument" Type="CommonClassLibrary.MeasuringInstrument" FixedFromPoint="true">
+      <Path>
+        <Point X="11.25" Y="5.625" />
+        <Point X="5.25" Y="5.625" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Calibrator" Type="CommonClassLibrary.Calibrator" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.25" Y="5.273" />
+        <Point X="10.75" Y="5.273" />
+        <Point X="10.75" Y="2.441" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAASABEAAAAAAAgAgEQAAAAAAAACAIADAAAAIEAAABA=</HashCode>
+      <FileName>Documents\BaseForCertificate.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MeasuringInstrument" />
+      <Property Name="Calibrator" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CommonClassLibrary.BaseUser" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAABAAgAAAgAAQAAQAFAAAAIAAAAAAAAAAABA=</HashCode>
+      <FileName>Users\BaseUser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonClassLibrary.MeasuringInstrument">
+    <Position X="3.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IEkCAAAAAAAAgaAQgACIgAAAEIgIAIABEAAIAACACBA=</HashCode>
+      <FileName>MeasuringInstrument.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Department" />
+      <Property Name="CalibrationPeriod" />
+      <Property Name="Manufacturer" />
+      <Property Name="DeviceType" />
+      <Property Name="MeasurementUnit" />
+      <Property Name="DeviceState" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AboutAndHelpClassLibrary\HelpAndAboutClassLibrary.csproj" />
+    <ProjectReference Include="..\AuthenticationLib\AuthenticationLib.csproj" />
+    <ProjectReference Include="..\CommonClassLibrary\CommonClassLibrary.csproj" />
+    <ProjectReference Include="..\ConteinerLibrary\ConteinerLibrary.csproj" />
+    <ProjectReference Include="..\DbClassLibrary\DbClassLibrary.csproj" />
+    <ProjectReference Include="..\HelpAndAboutModelInterface\HelpAndAboutModelInterface.csproj" />
+    <ProjectReference Include="..\Presenters\Presenters.csproj" />
+    <ProjectReference Include="..\ViewInterfaces\ViewInterfaces.csproj" />
+    <ProjectReference Include="..\WordDocClassLibraryOpenXml\WordDocClassLibraryOpenXml.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

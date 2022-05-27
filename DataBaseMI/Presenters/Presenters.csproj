@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AboutAndHelpClassLibrary\HelpAndAboutClassLibrary.csproj" />
+    <ProjectReference Include="..\AuthenticationLib\AuthenticationLib.csproj" />
+    <ProjectReference Include="..\CommonInterface\CommonInterface.csproj" />
+    <ProjectReference Include="..\ConteinerLibrary\ConteinerLibrary.csproj" />
+    <ProjectReference Include="..\DbClassLibrary\DbClassLibrary.csproj" />
+    <ProjectReference Include="..\HelpAndAboutModelInterface\HelpAndAboutModelInterface.csproj" />
+    <ProjectReference Include="..\RepositoryInterfaces\RepositoryInterfaces.csproj" />
+    <ProjectReference Include="..\ServerConnectionSettings\ServerConfiguration.csproj" />
+    <ProjectReference Include="..\ViewInterfaces\ViewInterfaces.csproj" />
+    <ProjectReference Include="..\WordDocClassLibraryOpenXml\WordDocClassLibraryOpenXml.csproj" />
+    <ProjectReference Include="..\WordDocDTO\WordDocDTO.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3112724a-7e2e-486b-956e-f05020d94fd5": {
+      "ProjectGuid": "3112724a-7e2e-486b-956e-f05020d94fd5",
+      "DisplayName": "WinFormsAppDevicesAccounting",
+      "ColorIndex": 0
+    },
+    "7b2e3ac3-f955-4d07-bfc9-2826afb8c128": {
+      "ProjectGuid": "7b2e3ac3-f955-4d07-bfc9-2826afb8c128",
+      "DisplayName": "CommonClassLibrary",
+      "ColorIndex": 1
+    },
+    "e6bf477b-2d23-4511-b054-aa753c6d849b": {
+      "ProjectGuid": "e6bf477b-2d23-4511-b054-aa753c6d849b",
+      "DisplayName": "DbClassLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<paragraphs>
+	<paragraph name="О программе">
+Прграмма разработана для автоматизации учёта измерительных приборов.
+	</paragraph>
+	<paragraph name="Меню'База данных СИ'">
+Данные по СИ
+	</paragraph>
+	<paragraph name="Меню'Справочник'">
+Вывод подробной информации о СИ
+	</paragraph>
+	<paragraph name="Меню'Документы'">
+Создание документов
+	</paragraph>
+	<paragraph name="Меню'Пользователи'">
+Список пользователей зарегистрированных в БД
+	</paragraph>
+	<paragraph name="Меню'Настройка'">
+Настройки программы
+	</paragraph>
+	<paragraph name="Меню'Справка'">
+Справочная информация
+	</paragraph>
+</paragraphs>
